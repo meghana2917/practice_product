@@ -1,0 +1,51 @@
+body
+{
+  background-color: #FFF8E1;
+  margin: 0 auto;
+}
+
+.text
+{
+  text-align: left;
+  margin: 10px;
+}
+
+.image
+{
+  margin-right: 20px;
+  float:left;
+}
+.imgtext
+{
+  position: absolute;
+  margin: 10%;
+
+  background-color: white;
+}
+
+.price
+{
+  display: inline-block;
+}
+h4
+{
+  display: inline-block;
+  text-decoration:line-through;
+}
+.heading
+{
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+h1
+{
+  font-family: "Fraunces"
+}
+p
+{
+  font-family: "Montserrat";
+}
+h2
+{
+  font-family: "Fraunces"
+}
